@@ -239,6 +239,27 @@ const projects = [
     image: jobit,
     source_code_link: "https://logsoft.bubbleapps.io/",
   },
+   {
+    name: "LogSoft",
+    description:
+      "Sistema WEB de gestão de frotas de veículos",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "restapi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "scss",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "https://logsoft.bubbleapps.io/",
+  },
 
 ];
 
